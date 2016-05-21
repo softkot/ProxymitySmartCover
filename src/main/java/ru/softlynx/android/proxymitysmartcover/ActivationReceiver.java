@@ -1,4 +1,4 @@
-package proxymlock.softlynx.ru.proxymitysmartcover;
+package ru.softlynx.android.proxymitysmartcover;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

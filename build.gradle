@@ -14,7 +14,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "proxymlock.softlynx.ru.proxymitysmartcover"
+        applicationId "ru.softlynx.android.proxymitysmartcover"
         minSdkVersion 21
         targetSdkVersion 21
         versionCode 1
